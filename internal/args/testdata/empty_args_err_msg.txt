@@ -1,0 +1,6 @@
+Invalid arguments:
+directory: argument is required
+type: argument is required
+startTime: argument is required
+endTime: argument is required
+invalid dates: startTime should be before endTime

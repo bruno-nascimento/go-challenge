@@ -1,0 +1,4 @@
+Invalid arguments:
+startTime: invalid date format - parsing time "invalid" as "2006-01-02T15:04:05Z07:00": cannot parse "invalid" as "2006"
+endTime: argument is required
+invalid dates: startTime should be before endTime

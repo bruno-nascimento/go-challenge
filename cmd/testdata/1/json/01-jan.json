@@ -1,0 +1,127 @@
+[
+{
+  "timestamp": "2022-01-01T00:00:00Z",
+  "level_name": "level_6",
+  "value": 26
+},
+{
+  "timestamp": "2022-01-01T00:00:00.483Z",
+  "level_name": "level_6",
+  "value": 271
+},
+{
+  "timestamp": "2022-01-01T00:00:01.299Z",
+  "level_name": "level_2",
+  "value": 237
+},
+{
+  "timestamp": "2022-01-01T00:00:01.686Z",
+  "level_name": "level_4",
+  "value": 766
+},
+{
+  "timestamp": "2022-01-01T00:00:02.01Z",
+  "level_name": "level_5",
+  "value": 814
+},
+{
+  "timestamp": "2022-01-01T00:00:02.465Z",
+  "level_name": "level_9",
+  "value": 566
+},
+{
+  "timestamp": "2022-01-01T00:00:03.192Z",
+  "level_name": "level_2",
+  "value": 155
+},
+{
+  "timestamp": "2022-01-01T00:00:03.803Z",
+  "level_name": "level_3",
+  "value": 379
+},
+{
+  "timestamp": "2022-01-01T00:00:03.841Z",
+  "level_name": "level_4",
+  "value": 852
+},
+{
+  "timestamp": "2022-01-01T00:00:03.881Z",
+  "level_name": "level_1",
+  "value": 204
+},
+{
+  "timestamp": "2022-01-01T00:00:03.958Z",
+  "level_name": "level_7",
+  "value": 771
+},
+{
+  "timestamp": "2022-01-01T00:00:04.362Z",
+  "level_name": "level_10",
+  "value": 796
+},
+{
+  "timestamp": "2022-01-01T00:00:04.9Z",
+  "level_name": "level_1",
+  "value": 302
+},
+{
+  "timestamp": "2022-01-01T00:00:05.085Z",
+  "level_name": "level_9",
+  "value": 786
+},
+{
+  "timestamp": "2022-01-01T00:00:05.441Z",
+  "level_name": "level_7",
+  "value": 586
+},
+{
+  "timestamp": "2022-01-01T00:00:06.345Z",
+  "level_name": "level_4",
+  "value": 885
+},
+{
+  "timestamp": "2022-01-01T00:00:06.466Z",
+  "level_name": "level_2",
+  "value": 872
+},
+{
+  "timestamp": "2022-01-01T00:00:07.449Z",
+  "level_name": "level_1",
+  "value": 10
+},
+{
+  "timestamp": "2022-01-01T00:00:07.626Z",
+  "level_name": "level_2",
+  "value": 729
+},
+{
+  "timestamp": "2022-01-01T00:00:07.923Z",
+  "level_name": "level_10",
+  "value": 748
+},
+{
+  "timestamp": "2022-01-01T00:00:08.073Z",
+  "level_name": "level_4",
+  "value": 224
+},
+{
+  "timestamp": "2022-01-01T00:00:08.521Z",
+  "level_name": "level_10",
+  "value": 233
+},
+{
+  "timestamp": "2022-01-01T00:00:08.542Z",
+  "level_name": "level_9",
+  "value": 431
+},
+{
+  "timestamp": "2022-01-01T00:00:09.23Z",
+  "level_name": "level_7",
+  "value": 757
+},
+{
+  "timestamp": "2022-01-01T00:00:09.903Z",
+  "level_name": "level_8",
+  "value": 916
+}
+]
